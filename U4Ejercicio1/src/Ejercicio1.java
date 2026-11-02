@@ -5,7 +5,7 @@
 
 /**
  *
- * @author christianduarte
+ * @author shailasalvatierra
  */
 public class Ejercicio1 extends javax.swing.JFrame {
     
